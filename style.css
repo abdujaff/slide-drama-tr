@@ -368,7 +368,7 @@
 #wowslider-container1  .ws_bullets div{
 	left:-50%;
 }#wowslider-container1 .ws-title{
-	font: 1.3em 'Gurajada', serif;
+	font: 3.8em 'Gurajada', serif;
 	position: absolute;
 	left: 2em;
 	margin-right:10em;
@@ -395,13 +395,13 @@
 	text-transform: uppercase;	
 	font-size: 2em;
 }#wowslider-container1 .ws_images > ul{
-	animation: wsBasic 8s infinite;
-	-moz-animation: wsBasic 8s infinite;
-	-webkit-animation: wsBasic 8s infinite;
+	animation: wsBasic 14.8s infinite;
+	-moz-animation: wsBasic 14.8s infinite;
+	-webkit-animation: wsBasic 14.8s infinite;
 }
-@keyframes wsBasic{0%{left:-0%} 25%{left:-0%} 50%{left:-100%} 75%{left:-100%} }
-@-moz-keyframes wsBasic{0%{left:-0%} 25%{left:-0%} 50%{left:-100%} 75%{left:-100%} }
-@-webkit-keyframes wsBasic{0%{left:-0%} 25%{left:-0%} 50%{left:-100%} 75%{left:-100%} }
+@keyframes wsBasic{0%{left:-0%} 35.14%{left:-0%} 50%{left:-100%} 85.14%{left:-100%} }
+@-moz-keyframes wsBasic{0%{left:-0%} 35.14%{left:-0%} 50%{left:-100%} 85.14%{left:-100%} }
+@-webkit-keyframes wsBasic{0%{left:-0%} 35.14%{left:-0%} 50%{left:-100%} 85.14%{left:-100%} }
 
 #wowslider-container1 .ws_bulframe div div{
 	height: auto;
